@@ -71,7 +71,7 @@ Score: 90/90
 Your score will be computed out of a maximum of 100 points based on the following distribution:
 
 * Correctness points (90 total).
-* Style points (10 total). 10 points are reserved for a subjective evaluation of the style of your solutions and your commenting. Please use astyle regularly and especially before you submit your work. Your solutions should be as clean and straight-forward as possible. Your comments should be informative, but they need not be extensive. 
+* Style points (10 total). 10 points are reserved for a subjective evaluation of the style of your solutions and your commenting. Please use astyle regularly and especially before you submit your work. Your solutions should be as clean and straight-forward as possible. Your comments should be informative, but they need not be extensive. Also, taken into consideration are things like deallocating any memory you had to allocate.
 
 <i>Note while the testing script will give you a good idea of your final lab grade, its score does NOT constitute an assurance. In particular, just because they pass the tests does not necessarily mean that you have implemented everything perfectly. The test harness tests your functions on a limited set of inputs. The fact that your implementation passes the test does not guarantee that the code that you wrote is correct.</i>
 
