@@ -6,7 +6,7 @@ Clone this repository. (Do not fork!)
 
 ## Completing the lab
 
-In this lab, you are given 5 object files, problem1.o, problem2.o, ..., problem5.o. The source files used to generate these objects files have been withheld. Each object file implements the functions associated with the problem of the same name (e.g. problem1.o defines function problem1). The later objects files contain additional functions. 
+In this lab, you are given 5 object files, part1.o, part2.o, ..., part5.o. The source files used to generate these objects files have been withheld. Each object file implements the functions associated with the problem of the same name (e.g. part1.o defines function part). The later objects files contain additional functions. 
 
 You are asked to dissassemble the object files and understand the x86-64 assembly code for each. Then write the corresponding C functions that perform the equivalent function. The assembly code generated from the code that you write may not be exactly the same as the decompiled versions of the posted files. It is sufficient that the functions perform the same tasks for all inputs. (However it should be pretty close!)
 
