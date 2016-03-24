@@ -21,7 +21,7 @@ The object files whose assembly code you seek to understand are in the objs/ sub
 Disassemble the object files. Read the assembly and try to understand what the function tries to achieve. 
 
 ```
-$ objdump -rd obj/problem1.o
+$ objdump -rd objects/problem1.o
 ```
 
 ### gdb  
