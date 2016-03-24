@@ -44,7 +44,7 @@ To compile and execute each function...
 ```
 $ make
 $ build/part1
-Part1 part1 failed to perform the correct logic.
+Part1 failed to perform the correct logic.
 Aborted
 ```
 
