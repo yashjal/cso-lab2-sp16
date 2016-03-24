@@ -34,8 +34,7 @@ $ gdb bin/lab2
 
 ## Writing the C functions
 
-The repository contains all files you need to work on this project. There are the problem files
-problem1.c ... problem5.c You need to develop your code within those files.
+The repository contains all files you need to work on this project. There are the problem files part1.c ... part5.c You will write your code within those files.
 
 ## Testing the C functions
 
