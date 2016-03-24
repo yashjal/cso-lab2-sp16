@@ -35,7 +35,7 @@ $ gdb bin/lab2
 ## Writing the C functions
 
 The repository contains all files you need to work on this project. There are the problem files
-problem1.c ... problem5.c and the header file lab2.h. You need to develop your code within those files.
+problem1.c ... problem5.c You need to develop your code within those files.
 
 ## Testing the C functions
 
@@ -44,7 +44,7 @@ To compile and execute each function...
 ```
 $ make
 $ build/part1
-boop! failed to boop correctly  
+Part1 part1 failed to perform the correct logic.
 Aborted
 ```
 
@@ -54,14 +54,24 @@ Once you've passed the tests for all six labs, you can double check your test-pa
 
 ```
 $ ./test-lab
-boop!
+part1 [part1.c]:
+  part1: OK
+part2 [part2.c]:
+  part2: OK
+[part3.c]:
+  part3: OK
+[part4.c]:
+  part4: OK
+[part5.c]:
+  part5: OK
+Score: 90/90
 ```
 
 ## Evaluation
 Your score will be computed out of a maximum of 100 points based on the following distribution:
 
-* Correctness points (Boop! total).
-* Style points (Boop! total). 10 points are reserved for a subjective evaluation of the style of your solutions and your commenting. Please use astyle regularly and especially before you submit your work. Your solutions should be as clean and straight-forward as possible. Your comments should be informative, but they need not be extensive. 
+* Correctness points (90 total).
+* Style points (10 total). 10 points are reserved for a subjective evaluation of the style of your solutions and your commenting. Please use astyle regularly and especially before you submit your work. Your solutions should be as clean and straight-forward as possible. Your comments should be informative, but they need not be extensive. 
 
 <i>Note while the testing script will give you a good idea of your final lab grade, its score does NOT constitute an assurance. In particular, just because they pass the tests does not necessarily mean that you have implemented everything perfectly. The test harness tests your functions on a limited set of inputs. The fact that your implementation passes the test does not guarantee that the code that you wrote is correct.</i>
 
