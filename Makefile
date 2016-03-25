@@ -34,7 +34,6 @@ clean-logs: always
 
 clean: always clean-logs
 	rm -rf $(BUILD)
-	rm -rf $(STATIC)
 
 test:
 	@echo $(MAKE) clean
